@@ -11,7 +11,7 @@
 [![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 
-Este repositório contém todos os projetos e exercícios que realizei durante a conclusão do [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) no Coursera.
+Este repositório contém todos os projetos e exercícios realizados durante a conclusão do [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) no Coursera.
 
 ## Sobre o Curso
 
