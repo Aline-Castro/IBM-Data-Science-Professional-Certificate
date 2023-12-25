@@ -1,4 +1,4 @@
-# Tools for Data Science - Coursera
+# Tools for Data Science - IBM - Coursera
 [![Ciência de Dados](https://img.shields.io/badge/Ciência_de_Dados-7D3C98?style=for-the-badge)](https://pt.wikipedia.org/wiki/Ciência_de_dados)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
