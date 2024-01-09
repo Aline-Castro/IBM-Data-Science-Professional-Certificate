@@ -45,4 +45,4 @@ Para mais informações e inscrições, visite a página oficial do curso [aqui]
 
 ## Certificado
 
-Após a conclusão bem-sucedida do curso, recebi um certificado de conclusão do Coursera. Você pode ver o certificado [aqui]
+Após a conclusão bem-sucedida do curso, recebi um certificado de conclusão do Coursera. Você pode ver o certificado [aqui](https://www.coursera.org/account/accomplishments/certificate/QMKMC3NDJMBW)
