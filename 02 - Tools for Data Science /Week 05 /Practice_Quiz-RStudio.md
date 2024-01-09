@@ -2,21 +2,21 @@
 
 #### Question 1: Where can you type R commands in RStudio?
 
-History <br>
-Files <br>
+* History <br>
+* Files <br>
 ✔ ***Console*** <br>
-Code editor <br>
+* Code editor <br>
 
 #### Question 2: Which R library will you use for data visualizations such as histograms, bar charts, and scatterplots? Select all that apply.
 
-Leaflet <br>
+* Leaflet <br>
 ✔ ***Plotly*** <br>
-Lattice <br>
+* Lattice <br>
 ✔ ***ggplot*** <br>
 
 
 #### Question 3: Which is the command used to install packages in R?
 
-library(packages) <br>
+* library(packages) <br>
 ✔ ***install.packages()*** <br>
-installpackages() <br>
+* installpackages() <br>
