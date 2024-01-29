@@ -1,4 +1,4 @@
-# Graded Quiz -  Practice Quiz.
+# Practice Quiz: From Problem to Approach
 
 #### Question 1: Select the correct statement.
 
