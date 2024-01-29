@@ -1,4 +1,4 @@
-# Graded Quiz -  Do problema à abordagem
+# Graded Quiz -  From Problem to Approach
 
 #### Question 1: Select the correct statement.
 
