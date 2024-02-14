@@ -44,10 +44,10 @@ O curso é dividido em várias semanas, cada uma focando em um aspecto específi
 
 ## Link do Curso
 
-Para mais informações e inscrições, visite a página oficial do curso [aqui]([https://www.coursera.org/learn/open-source-tools-for-data-science](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)).
+Para mais informações e inscrições, visite a página oficial do curso [aqui](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science).
 
 ## Certificado
 
-Após a conclusão bem-sucedida do curso, recebi um certificado de conclusão do Coursera. Você pode ver o certificado [aqui]()
+Após a conclusão bem-sucedida do curso, recebi um certificado de conclusão do Coursera. Você pode ver o certificado [aqui](https://coursera.org/share/2ce66c0778c21999163e07a4cbce3b54)
 
 
